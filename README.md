@@ -22,8 +22,9 @@ If you prefer to do things "natively" you may download, install, and configure
 the suite of tools provided by the binary or source distribution of your
 choice from the [Downloads page](https://golang.org/dl/).
 
-1. Run `go test`.
-1. Make the failing tests pass, by replacing these types of `__variables__` with real values.
+1. go mod init go-koans
+2. Run `go test`.
+3. Make the failing tests pass, by replacing these types of `__variables__` with real values.
 
 ## Docker Usage
 
